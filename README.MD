@@ -1,0 +1,1 @@
+This is a project for a course; it is the front end of the Google page where searches can be made.
